@@ -27,15 +27,15 @@ spa-javascript/
 
 1. Install dependencies:
 
-```bash
-npm install
-```
+    ```bash
+    npm install
+    ```
 
 2. Start the dev server:
 
-```bash
-npm run dev
-```
+    ```bash
+    npm run dev
+    ```
 
 3. Open `http://localhost:5173` in your browser.
 
@@ -59,7 +59,6 @@ export default () => {
 ## Reference
 
 This project is based on the approach explained in this video:
-Build a Router in Vanilla JavaScript
+[Build a Router in Vanilla JavaScript](https://www.youtube.com/watch?v=OstALBk-jTc)
 
 The video also explains how to handle route parameters (e.g., /posts/2), which is not implemented in this version of the code.
-
